@@ -7,7 +7,6 @@ A Todo List application built using React, Material-UI (MUI), Framer Motion for 
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Demo
