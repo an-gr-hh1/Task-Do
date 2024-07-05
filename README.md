@@ -1,6 +1,6 @@
 # Task-Do
 
-A Todo List application built using React, Material-UI (MUI), Framer Motion for animations, and Data.js for managing data. This project demonstrates state management using React hooks and conditional rendering.
+A Todo List application built using React, Material-UI (MUI), Framer Motion for animations, and Date.js for managing data. This project demonstrates state management using React hooks and conditional rendering.
 
 ## Table of Contents
 
