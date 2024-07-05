@@ -18,6 +18,7 @@ A live demo of the application can be found [here](#).
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
+- Add priority
 - Display tasks with animations
 - Responsive design
 
