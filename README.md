@@ -69,4 +69,8 @@ Make sure to replace `yourusername` and `your-repository` with your actual GitHu
 ## Results
 
 ![Hero Page](https://github.com/an-gr-hh1/Task-Do/blob/main/public/Task.png?raw=true)
+![Page 1](https://github.com/an-gr-hh1/Task-Do/blob/main/public/Task5.png?raw=true)
+![Page 2](https://github.com/an-gr-hh1/Task-Do/blob/main/public/Task2.png?raw=true)
+![Page 3](https://github.com/an-gr-hh1/Task-Do/blob/main/public/Task3.png?raw=true)
+![Page 4](https://github.com/an-gr-hh1/Task-Do/blob/main/public/Task4.png?raw=true)
 
