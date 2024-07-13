@@ -8,6 +8,7 @@ A Todo List application built using React, Material-UI (MUI), Framer Motion for 
 - [Features](#features)
 - [Installation](#installation)
 - [Contributing](#contributing)
+- [Results](#results)
 
 ## Demo
 
@@ -64,4 +65,8 @@ A live demo of the application can be found [here](#).
     ```
 
 Make sure to replace `yourusername` and `your-repository` with your actual GitHub username and repository name. Also, update the demo link and other relevant sections with actual information as needed.
+
+## Results
+
+![Hero Page](https://github.com/an-gr-hh1/Task-Do/blob/main/public/Task.png?raw=true)
 
